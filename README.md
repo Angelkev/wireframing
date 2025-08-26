@@ -13,3 +13,23 @@ Wireframing is the process of creating a simplified visual guide that represents
 
 ### When to Use Wireframes
 Wireframes are typically used in the early stages of the design process to explore ideas, align team members, and validate workflows before moving into visual design or prototyping.
+
+## 1. Key Elements of Wireframing (mandatory)
+
+Wireframes typically include several core elements that define the usability and user experience of a digital product:
+
+### 1. Layout Structure
+Defines the overall framework of the page or screen, organizing major sections.  
+**Example:** A website may have a header, main content area, sidebar, and footer clearly divided. This helps teams visualize how information will be distributed and prioritized.
+
+### 2. Navigation
+Shows how users will move through the interface.  
+**Example:** A top navigation bar with menu items (Home, About, Contact) ensures users can easily locate and switch between key sections of a site or app.
+
+### 3. Content Placement
+Determines where text, images, and media will appear.  
+**Example:** Placing a hero banner at the top of a homepage with a call-to-action button ensures critical messaging is seen first, guiding users toward desired actions.
+
+### 4. Functionality
+Indicates interactive components such as buttons, forms, and links.  
+**Example:** A login wireframe may include input fields for username and password, with a “Submit” button showing how users will interact with the system.

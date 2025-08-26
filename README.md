@@ -33,3 +33,35 @@ Determines where text, images, and media will appear.
 ### 4. Functionality
 Indicates interactive components such as buttons, forms, and links.  
 **Example:** A login wireframe may include input fields for username and password, with a “Submit” button showing how users will interact with the system.
+
+---
+
+## 2. Types of Wireframes (mandatory)
+
+Wireframes can be created at different levels of fidelity, depending on the stage of the design process and the goals of the team.
+
+### Low-Fidelity Wireframes
+
+* **Definition:** Simple sketches or block diagrams that outline the basic structure of a page without detail.
+* **Purpose:** Focuses on overall layout, information hierarchy, and user flow.
+* **Appearance:** Black-and-white, with placeholder boxes for images and lorem ipsum text for content.
+* **When Used:** Early stages of brainstorming and ideation, when quick iteration and team alignment are more important than visual detail.
+
+**Example Contribution:** Using rectangles and circles to indicate images and buttons ensures stakeholders can focus on structure rather than design aesthetics.
+
+### High-Fidelity Wireframes
+
+* **Definition:** Detailed, polished representations of a page that closely resemble the final design.
+* **Purpose:** Demonstrates layout, spacing, content, and interactivity with more realism.
+* **Appearance:** Includes actual text, images, and sometimes clickable elements for testing.
+* **When Used:** Later stages of the design process, for usability testing or developer handoff.
+
+**Example Contribution:** A high-fidelity wireframe of a landing page might include real product photos, meaningful headlines, and working navigation links for accurate user testing.
+
+---
+
+## What Type of Wireframe is This?
+
+The README.md you are currently reading is **not a wireframe itself** but an instructional document. If represented visually, it would most likely start as a **low-fidelity wireframe** (with text boxes and section placeholders) before evolving into a **high-fidelity design** in a UI tool.
+
+---

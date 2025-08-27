@@ -104,3 +104,51 @@ There are many tools available to create wireframes, ranging from simple sketchi
 Figma allows teams to brainstorm and sketch early wireframes quickly, then evolve them into high-fidelity mockups without switching tools. Its collaborative nature ensures designers, developers, and stakeholders remain aligned throughout the process.
 
 ---
+
+## 4. Benefits of Wireframing in Software Development (mandatory)
+
+Wireframing offers significant benefits from a software development perspective by bridging the gap between design and implementation.
+
+### 1. Guides the Design Process
+
+Wireframes provide a clear blueprint of the layout, navigation, and functionality before coding begins. This allows developers to understand the intended flow of the application early, reducing ambiguity.
+**Example:** A login wireframe with input fields and a submit button clarifies what data needs to be captured and how the backend should handle authentication.
+
+### 2. Facilitates Communication
+
+Wireframes act as a shared visual language between designers, developers, and stakeholders. They minimize misunderstandings by showing concrete layouts rather than relying on abstract descriptions.
+**Example:** A wireframe of a homepage with a hero banner and navigation bar helps all team members agree on priorities before development starts.
+
+### 3. Identifies Issues Early
+
+By visualizing layout and functionality at an early stage, wireframes make it easier to spot potential usability or workflow problems before coding. This reduces costly rework during development.
+**Example:** Discovering during wireframing that a checkout process has too many steps allows adjustments before developers build the logic.
+
+### 4. Improves Efficiency
+
+With wireframes, teams can iterate quickly and cheaply, testing multiple ideas without the overhead of redesigning finished code. This results in a smoother transition from concept to implementation.
+**Example:** Switching a sidebar menu to a top navigation bar in a wireframe is far faster and cheaper than rewriting the code later.
+
+---
+
+## 5. Wireframing in Practice (mandatory)
+
+Wireframing has a practical impact on real-world projects by preventing usability issues before development begins.
+
+### Real-World Scenario
+
+A team designing an **e-commerce website** created wireframes to plan the checkout process. The initial wireframe showed a four-step flow: cart → shipping → payment → confirmation. During review, stakeholders noticed that requiring account creation before checkout could frustrate users and lead to cart abandonment.
+
+### Resolution
+
+Thanks to the wireframe, the issue was caught early. The team modified the flow to allow **guest checkout**, moving optional account creation to the confirmation page. This adjustment simplified the user journey and made the checkout process more user-friendly.
+
+### Impact on the Final Product
+
+When the site launched, analytics showed higher checkout completion rates and fewer abandoned carts. The usability issue was solved before a single line of code was written, saving time, money, and effort.
+
+### Conclusion
+
+This example demonstrates that wireframing is more than just a design step—it is a critical tool for ensuring **user-friendly design, efficient development, and improved collaboration**. By visualizing and testing ideas early, wireframes reduce risks and pave the way for a smoother, more successful product launch.
+
+---
